@@ -1,8 +1,5 @@
 ### <div align="center">I'm Dana, CS student with two years of experience as a Full Stack Developer 👨‍💻 </div>  
-  
 
-- 🔭 I’m currently working on [search algorithms for a simple game](https://github.com/danabarz/blokus)  
-  
 
 - 🌱 I’m currently learning introduction to Artificial Intelligence and Machine Learning  
   
