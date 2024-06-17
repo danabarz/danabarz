@@ -1,7 +1,7 @@
 ### <div align="center">I'm Dana, CS student with two years of experience as a Full Stack Developer 👨‍💻 </div>  
 
 
-- 🌱 I’m currently learning introduction to Artificial Intelligence and Machine Learning  
+- 🌱 I’m currently learning introduction to AI, ML and OS  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
